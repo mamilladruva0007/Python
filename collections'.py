@@ -19,7 +19,7 @@ my_tuple = (1, 2, 3, 4, 5)
 print("\nTuple:", my_tuple)
 print("Length:", len(my_tuple))
 print("First Element:", my_tuple[0])
-print("Count of 2:", my_tuple.count(2))
+print("Count of 2:", my_tuple.count(2))2
 print("Index of 4:", my_tuple.index(4))
 
 my_set = {10, 20, 30, 40}
